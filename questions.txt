@@ -1,0 +1,60 @@
+1.	Where do you think you are lagging at in order to get placed?
+2.	Have you cleared any of the written exam so far in Placements 2016?
+3.	What might be the reason with respect to your experience in not clearing the written exams?
+4.	How would you rate your preparation for placements on the scale of 10?
+5.	How would you rate your preparation for the Written Exam?
+6.	How would you rate yourself in the Quantitative Aptitude Section of Written Exam?
+7.	How would you rate yourself in the Analytical Reasoning Section of Written Exam?
+8.	How would you rate yourself in the Verbal Reasoning Section of Written Exam?
+9.	How would you rate yourself in the Technical Ability Section of Written Exam?
+10.	Do you have any suggestions to the Department Placement Team in helping you with respect to clearing written exam?
+11.	Have you had a chance in facing any Face-Face interviews in the Placements 2016?
+12.	What might be the reasons with respect to you in not clearing the Face-Face interviews?
+13.	How would you rate your preparation for the Face-Face interviews?
+14.	How would do you rate your confidence levels in facing the interviews?
+15.	How would do you rate your clarity in speaking at the interviews?
+16.	How would do you rate yourself in explaining technical concepts at the interviews?
+17.	How would do you rate yourself in overall communication skills (including body language)?
+18.	How many questions you have prepared with respect to RESUME in the view of interviews?
+19.	How well you are prepared with answers for all the HR related questions?
+20.	How would you rate your level of satisfaction with respect to your preparation efforts?
+1.	How well you know the basic definitions in the Computer Science? 
+2.	How would you rate yourself in the C programming language?
+3.	How well you know Pointers in C programming Language?
+4.	How much confident you are, in completing the Prime Number program with full accuracy in less the 5mins?
+5.	How much confident you are, in completing the Fibonacci Number program with full accuracy in less than 5mins?
+6.	How much confident you are, in completing the Palindrome Number program with full accuracy in less than 5mins?
+7.	How much confident you are, in completing the Matrix Multiplication program with full accuracy in less than 5mins?
+8.	How well you know the Data Structures Stack and Queue?
+9.	How much confident you are, in completing the program for Operations on Stack with full accuracy in less than 5mins?
+10.	How much confident you are, in completing the program for Operations on Queue with full accuracy in less than 5mins?
+11.	How well you know the Data Structures, Linked Lists?
+12.	How much confident you are, in completing the program for insertion of node in linked list with full accuracy in less than 5mins?
+13.	How much confident you are, in completing the program for Deletion of node in linked list with full accuracy in less than 10mins?
+14.	How much confident you are, in completing the program for reversing linked list with full accuracy in less than 10mins?
+15.	How well you know the data structure Binary Search Tree?
+16.	How much confident you are, in finding various traversals of a BST with full accuracy in less than 10mins?
+17.	How well you can explain about the Recursion with an example?
+18.	How well you can explain about the various sorting algorithms?
+19.	How well you can explain about the hashing?
+20.	How would you rate yourself in the JAVA programming language?
+21.	How well you can explain the differences between C and JAVA?
+22.	How well you can explain the different properties of OOPS?
+23.	How well you can answer about the Polymorphism?
+24.	How well you can answer about the different types of polymorphism?
+25.	How well you can answer about the Inheritance?
+26.	How well you can answer about the Constructor and Destructor?
+27.	How well you can answer about the projects mentioned in the resume?
+28.	How well you can answer about all the technologies mentioned in the resume?
+29.	How well you can answer about the advantages of JAVA over C or C over JAVA?
+30.	How would you rate your knowledge in the subject of DBMS?
+31.	How well you can answer about the different keys in the RDBMS?
+32.	How well you can answer about the ER Diagrams?
+33.	How well you can answer about the Normalizations?
+34.	How well you can answer about the SQL queries?
+35.	How well you can answer the basic definitions from Operating Sytems?
+36.	How well you can answer the basic definitions from Computer Networks?
+37.	How well you can answer the basic definitions from Software Engineering?
+38.	How well you can answer about the Testing Concepts of Software Engineering?
+39.	How well you can answer about the Different Life Cycle models?
+40.	What do you expect from Department of CSE with respect to enhance your career oppurtunities?
